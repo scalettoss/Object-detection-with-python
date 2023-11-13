@@ -1,4 +1,4 @@
-# Object-detection-with-python (Image and webcam)
+# Object-detection-with-python using YOLOv3 Model (Image and webcam)
 
 
 # Install:
