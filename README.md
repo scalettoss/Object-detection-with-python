@@ -1,4 +1,4 @@
-# Object-detection-with-python (Image and webcam) by Bao
+# Object-detection-with-python (Image and webcam)
 
 
 # Install:
